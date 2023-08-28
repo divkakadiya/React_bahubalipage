@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 
-/* .col_4 {
+.col_4 {
     width: 25%;
-} */
+}
 
 .row {
     display: flex;
